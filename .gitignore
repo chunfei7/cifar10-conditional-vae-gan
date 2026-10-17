@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+
+# CIFAR-10 batches and generated workspaces
+data_batch_*
+test_batch
+batches.meta
+chun_fei_ca2_yx_split/
+shared_final_evaluation/
